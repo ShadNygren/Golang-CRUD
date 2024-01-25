@@ -2,7 +2,9 @@
 
 This is simple example of how you can perform basic CRUD (Create, Read, Update, and Delete) operations in Golang targeting a PostgreSQL database on AWS Aurora.
 
-This example assumes you are familiar with Go's database/sql package and have already set up your PostgreSQL database on AWS Aurora. This code was originally generated using ChatGPT.
+This code was originally generated using ChatGPT.
+
+This example assumes you are familiar with Go's database/sql package and have already set up your PostgreSQL database on AWS Aurora.
 
 First, ensure you have the PostgreSQL driver for Go installed:
 
